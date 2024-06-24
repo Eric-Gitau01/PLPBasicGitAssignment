@@ -13,4 +13,4 @@
 
 The `hello.txt` file and the commit message can be verified in the GitHub repository.
 
-[Link to the repository]()
+[Link to the repository](https://github.com/Eric-Gitau01/PLPBasicGitAssignment/tree/master)
